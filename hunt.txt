@@ -1,0 +1,6 @@
+#EXTINF:-1 xui-id="8916" tvg-id="sky.sports.f1.gb" tvg-name="SKY SPORTS F1 (HD)" tvg-logo="http://live.huntv.net:8080/images/a8015ac1295252047566492395da0f0a.png" group-title="Sport",SKY SPORTS F1 (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9UZjHDPueVykuFWlruOlbGj
+#EXTINF:-1 xui-id="8917" tvg-id="premier.sports.gb" tvg-name="SKY Sports Premier League (HD)" tvg-logo="http://live.huntv.net:8080/images/c4daff21c4d252e3b86d6ae694e29bf3.png" group-title="Sport",SKY Sports Premier League (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9XghIuuk71_KQ85QDKPvY8f
+#EXTINF:-1 xui-id="8918" tvg-id="SSPFTHD" tvg-name="SKY Sports Football (HD)" tvg-logo="http://live.huntv.net:8080/images/949cf5ebd359b7c3419d1471e6a875f9.png" group-title="Sport",SKY Sports Football (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9X2J957ZMKxgVSV2KaRD5Uj
